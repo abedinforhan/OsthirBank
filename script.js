@@ -1,10 +1,10 @@
-// const login=document.getElementById("loginBtn");
-// login.addEventListener("click",function(){
-//   document.getElementById("loginContainer").style.display="none";
-//   document.getElementById('transaction-area').style.display="block";
+const login=document.getElementById("loginBtn");
+login.addEventListener("click",function(){
+  document.getElementById("loginContainer").style.display="none";
+  document.getElementById('transaction-area').style.display="block";
   
 
-// });
+});
 
 
 const deposit=document.getElementById("addDeposit");

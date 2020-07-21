@@ -1,7 +1,8 @@
 body{
   padding: 100px;
   }
-bank-title{
+
+  bank-title{
   text-align: center;
 }
 
@@ -12,9 +13,8 @@ bank-title{
 }
 
 #transaction-area{
-   display: block;
+   display: none;
 }
-
 .deposit,.withdraw,.balance{
   padding: 20px;
   display: flex;
