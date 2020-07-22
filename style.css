@@ -2,8 +2,11 @@ body{
   padding: 100px;
   }
 
-  bank-title{
+.bank-title{
   text-align: center;
+}
+.bank-title small{
+  text-align: right!important;
 }
 
 #form-container,.submit-area{
